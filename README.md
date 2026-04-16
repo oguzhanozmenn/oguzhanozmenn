@@ -33,22 +33,13 @@ Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendis
 
 ### 🛠️ Teknolojiler ve Araçlar
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Programlama Dilleri</h4>
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,go,swift,cs" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ Bulut ve DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,jenkins" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,cpp,js,go,swift,cs,aws,docker,kubernetes,terraform,linux,jenkins,postgres,mongodb,tensorflow,pytorch,git,github,vscode" />
+</p>
 
 ---
 
-### 🕹️ GitHub Contribution Game (Space Invaders)
+### 🕹️ GitHub Contribution Game
 
 <div align="center">
 
@@ -62,15 +53,13 @@ Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendis
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 İstatistikler
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=oguzhanozmenn&show_icons=true&theme=tokyonight&border_radius=10" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozmenn&layout=compact&theme=tokyonight&border_radius=10" height="150">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oguzhanozmenn&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanozmenn&layout=compact&theme=tokyonight&border_radius=10" height="180px" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanozmenn&theme=tokyonight&border_radius=10" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanozmenn&theme=tokyonight&border_radius=10" height="150">
+</p>
