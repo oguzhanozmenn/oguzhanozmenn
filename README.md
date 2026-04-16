@@ -1,36 +1,31 @@
 <div align="center">
 
-# 🚀 Merhaba, Ben Oğuzhan Özmen 👋
+# 🚀 Merhaba Ben Oğuzhan Özmen 👋
 
-**Bilgisayar Mühendisliği Öğrencisi | DevOps & Cloud Engineer Adayı**
+**Bilgisayar Mühendisliği Öğrencisi | DevOps & Bulut Mühendisi Adayı**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhannozmen) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ozmenoguz541)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhanozmen) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhanozmen)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzhanozmenn)
 
 <br/>
 
-<div align="center">
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1NTg4NmFhZDQ4OTQyN2NhNTVlNmZlNDc0OWFhNjNhNjY4NDRhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-
-![DevOps Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=60&animation=fadeIn)
-
-</div>
-<br clear="right"/>
+![DevOps Banner](https://capsule-render.vercel.app/render?type=kamehames&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=60&animation=twinkling)
 
 </div>
 
 ---
 
 ### 👨‍💻 Hakkımda
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ1eW04bm96Z3BxamR6bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1NTg4NmFhZDQ4OTQyN2NhNTVlNmZlNDc0OWFhNjNhNjY4NDRhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendislik öğrencisiyim. Karmaşık sistemleri daha akıllı ve yönetilebilir hale getirmeyi seviyorum.
 
 * 🔭 Şu an **Olympos Platform** projesi üzerinde çalışıyorum.
 * ☁️ **AWS** ve **Kubernetes** dünyasını keşfediyorum.
 * ⚡ Eğlenceli gerçek: Kahveyi Docker konteynerlarından daha hızlı tüketirim.
+
+<br clear="right"/>
 
 ---
 
@@ -61,6 +56,20 @@ Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendis
 
 ---
 
+### 🕹️ GitHub Contribution Game (Space Invaders)
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Animation" src="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
@@ -71,13 +80,5 @@ Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendis
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanozmenn&theme=tokyonight&border_radius=10" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oguzhanozmenn/oguzhanozmenn/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
