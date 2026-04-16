@@ -1,12 +1,14 @@
 <div align="center">
 
-# 🚀 Merhaba Ben Oğuzhan Özmen 👋
+<br/>
 
-**Bilgisayar Mühendisliği Öğrencisi | DevOps & Bulut Mühendisi Adayı**
+![Bulut ve DevOps Engineer](https://capsule-render.vercel.app/render?type=soft&color=auto&height=220&section=header&text=Cloud%20&%20DevOps%20Engineer&fontSize=55&fontAlignY=38&animation=fadeIn&desc=AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20Docker&descSize=18&descAlignY=65)
 
 <br/>
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=fadeIn)
+# 🚀 Merhaba Ben Oğuzhan Özmen 👋
+
+**Bilgisayar Mühendisliği Öğrencisi | DevOps & Bulut Mühendisi Adayı**
 
 <br/>
 
