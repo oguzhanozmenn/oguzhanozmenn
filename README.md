@@ -6,7 +6,7 @@
 
 <br/>
 
-![DevOps Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=fadeIn)
+![Main Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=fadeIn)
 
 <br/>
 
@@ -19,11 +19,11 @@
 ---
 
 ### 👨‍💻 Hakkımda
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1NTg4NmFhZDQ4OTQyN2NhNTVlNmZlNDc0OWFhNjNhNjY4NDRhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1NTg4NmFhZDQ4OTQyN2NhNTVlNmZlNDc0OWFhNjNhNjY4NDRhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendislik öğrencisiyim. Karmaşık sistemleri daha akıllı ve yönetilebilir hale getirmeyi seviyorum.
 
-* 🔭 Şu an **Olympos Platform** projesi üzerinde çalışıyorum.
+* 🔭 Şu an **Olympos Platform** ve **Autonomous DevOps Agent** projeleri üzerinde çalışıyorum.
 * ☁️ **AWS** ve **Kubernetes** dünyasını keşfediyorum.
 * ⚡ Eğlenceli gerçek: Kahveyi Docker konteynerlarından daha hızlı tüketirim.
 
@@ -42,16 +42,6 @@ Bulut Bilişim, DevOps ve Yapay Zeka üzerine projeler geliştiren bir mühendis
     <td width="50%" valign="top">
       <h4>☁️ Bulut ve DevOps</h4>
       <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,jenkins" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Yapay Zeka & Veritabanı</h4>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mongodb,redis" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Diğer Araçlar</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
     </td>
   </tr>
 </table>
