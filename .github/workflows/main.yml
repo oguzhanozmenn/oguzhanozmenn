@@ -1,37 +1,27 @@
-name: generate animation
+name: Generate Datas
 
 on:
-  # Her 24 saatte bir otomatik çalışır
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # Manuel olarak da başlatabilirsin
-  workflow_dispatch:
-  
-  # Ana dizine (main/master) her push yapıldığında çalışır
-  push:
-    branches:
-    - main
+  schedule: # Her 24 saatte bir çalışır
+    - cron: "0 */24 * * *"
+  workflow_dispatch: # İstediğinde manuel çalıştırabilirsin
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      # Yılan animasyonunu oluşturur
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Uzay gemisi/Yılan animasyonunu oluşturan kısım
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # Oluşturulan dosyayı 'output' branchine yükler
-      - name: push github-contribution-grid-snake.svg to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Dosyayı "output" branchine yükler
+      - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
