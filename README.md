@@ -4,13 +4,15 @@
 
 **Bilgisayar Mühendisliği Öğrencisi | DevOps & Bulut Mühendisi Adayı**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhanozmen) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhanozmen)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzhanozmenn)
+<br/>
+
+![DevOps Banner](https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=200&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=fadeIn)
 
 <br/>
 
-![DevOps Banner](https://capsule-render.vercel.app/render?type=kamehames&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=60&animation=twinkling)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhanozmen) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oguzhanozmen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oguzhanozmenn)
 
 </div>
 
