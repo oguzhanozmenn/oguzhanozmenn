@@ -10,7 +10,14 @@
 
 <br/>
 
-![DevOps Banner](https://capsule-render.vercel.app/render?type=kamehames&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=60&animation=twinkling)
+<div align="center">
+
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE1NTg4NmFhZDQ4OTQyN2NhNTVlNmZlNDc0OWFhNjNhNjY4NDRhMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZl9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+![DevOps Banner](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DevOps%20Engineer&fontSize=60&animation=fadeIn)
+
+</div>
+<br clear="right"/>
 
 </div>
 
